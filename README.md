@@ -1,5 +1,4 @@
-# recipe_app
-
+# internship app
 A new Flutter project.
 
 ## Getting Started
